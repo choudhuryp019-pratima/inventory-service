@@ -14,8 +14,6 @@ public class Product {
 
     private Integer quantity;
 
-    // Getters & Setters (IMPORTANT if not using Lombok)
-
     public Long getId() {
         return id;
     }
